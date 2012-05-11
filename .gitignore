@@ -1,2 +1,3 @@
 Rakefile
 nbproject/*
+config/database.yml
